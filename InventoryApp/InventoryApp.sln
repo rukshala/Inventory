@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{308EC2B0-DF03-46C2-B98C-6D56458D1089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Web", "..\Inventory.Web\Inventory.Web.csproj", "{45499E20-3DAE-490C-9EFC-4FF201C6A80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOnApp", "..\SignOnApp\SignOnApp.csproj", "{0D55531A-821F-42D8-92C5-87FF815BC036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308EC2B0-DF03-46C2-B98C-6D56458D1089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308EC2B0-DF03-46C2-B98C-6D56458D1089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308EC2B0-DF03-46C2-B98C-6D56458D1089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308EC2B0-DF03-46C2-B98C-6D56458D1089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45499E20-3DAE-490C-9EFC-4FF201C6A80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45499E20-3DAE-490C-9EFC-4FF201C6A80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45499E20-3DAE-490C-9EFC-4FF201C6A80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45499E20-3DAE-490C-9EFC-4FF201C6A80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D55531A-821F-42D8-92C5-87FF815BC036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D55531A-821F-42D8-92C5-87FF815BC036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D55531A-821F-42D8-92C5-87FF815BC036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D55531A-821F-42D8-92C5-87FF815BC036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B78647-3A7D-4F37-B7FA-322250282A6F}
+	EndGlobalSection
+EndGlobal
